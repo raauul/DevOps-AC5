@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Lista de cursos</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="css.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <!-- Titulo  -->
+    <center><h1>Escolha uma matéria para saber mais sobre</h1><center>
+    <!-- Div principal com todos os cursos -->
+    <div class="principal">
+        <div class="ADM">
+            <!-- Nome do curso -->
+            <h2>Administração</h2>
+            <!-- Algumas matérias presentes no curso -->
+            <p>Inteligencia de Negócios e Gestão de Porjetos</p>
+        </div>
+         <div class="ADS">
+            <h2>Análise e Desenvlvimento de Sistemas</h2>
+            <p>IOT, DevOps, Mobile</p>
+        </div>
+         <div class="SI">
+            <h2>Sistemas de Informação</h2>
+            <p>Buiness Agillity & Computação Cognitva</p>
+        </div>
+        
+        <div class="RC">
+            <h2>Redes de Computadores</h2>
+            <p>Cloud Computing & Cyber Security</p>
+        </div>
+         <div class="JD">
+            <h2>Jogos Digitais</h2>
+            <p>Design de Games e Game Programming</p>
+        </div>
+         <div class="PG">
+            <h2>Processos Gerenciais</h2>
+            <p>Inteligência de Negócios & Viabilidade Projetos</p>
+        </div>
+        
+        <div class="EC">
+            <h2>Engenharia da Computação</h2>
+            <p>IOT, Automação, Inteligência Artificial</p>
+        </div>
+    
+       <div class="GTI">
+            <h2>Gestão da Tecnologia da Informação</h2>
+            <p>ERP & Gestão e Qualidade</p>
+        </div>
+         <div class="PM">
+            <h2>Produção Multimídia</h2>
+            <p>Web Design, Audiovisual & Design Digital</p>
+        </div>
+        <div class="BD">
+            <h2>Banco de Dados</h2>
+            <p>Data Analytics & Big Data</p>
+        </div>
+    </div>
+</body>
+</html>
